@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\madina\OneDrive\Desktop\EncryptionProject\main.cpp(189,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\madina\OneDrive\Desktop\EncryptionProject\main.cpp(358,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EncryptionProject.vcxproj -> C:\Users\madina\OneDrive\Desktop\EncryptionProject\x64\Debug\EncryptionProject.exe
